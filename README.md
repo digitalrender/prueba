@@ -1,2 +1,2 @@
 # prueba
-prova
+prova de connexió i sincronització amb VSCODE
